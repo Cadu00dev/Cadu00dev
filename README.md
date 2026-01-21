@@ -77,6 +77,6 @@ Me chamo Carlos Eduardo da Silva Rodrigues, tenho 19 anos e sou natural de Brasi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br/>
 <br/>
 </p>
