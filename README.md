@@ -1,7 +1,5 @@
 ## Cadu00dev
 
-**Desenvolvedor web**
-
 Me chamo Carlos Eduardo da Silva Rodrigues, tenho 19 anos e sou natural de Brasilia. Concluí o ensino médio no colegio objetivo, Atualmente, estou cursando Engenharia de Software no UNICEUB. Sou apaixonado por tecnologia e tenho uma grande curiosidade em aprender e evoluir meus conhecimentos.
 
 ### 🤖 Linguagens e Tecnologias
