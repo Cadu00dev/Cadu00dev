@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Estudante de Engenharia de Software no UniCEUB · 📍 Brasília<br>
-  🌱 Apaixonado por tecnologia e movido pela curiosidade de aprender e evoluir sempre.
+   Apaixonado por tecnologia e movido pela curiosidade de aprender e evoluir sempre.
 </p>
 
 ###
