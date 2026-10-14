@@ -94,8 +94,8 @@
   <a href="mailto:cesr00904@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://cadu00dev.github.io/portfolioHUB/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" height="40" alt="portfólio" />
+  <a href="https://carloseduardo-portfolio-khaki.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="portfólio" />
   </a>
 </div>
 
